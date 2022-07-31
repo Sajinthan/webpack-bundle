@@ -1,4 +1,5 @@
 import { cube } from './math';
+import './style.scss';
 
 function testing(x) {
   return cube(x);
